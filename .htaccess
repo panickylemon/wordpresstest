@@ -1,0 +1,38 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /wordpresstest/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /wordpresstest/index.php [L]
+</IfModule>
+
+# END WordPress
+
+<Files xmlrpc.php>
+order allow,deny
+deny from all
+</Files>
+
+<Files wp-config.php>
+order allow,deny
+deny from all
+</Files>
+#
+#<IfModule mod_rewrite.c>
+#RewriteEngine On
+#RewriteCond %{SCRIPT_FILENAME} !^(.*)admin-ajax\.php
+#RewriteCond %{HTTP_REFERER} !^(.*)localhost:81/wordpresstest/wp-admin
+#RewriteCond %{HTTP_REFERER} !^(.*)localhost:81/wordpresstest/wp-login\.php
+#RewriteCond %{QUERY_STRING} !^123456r
+#RewriteCond %{QUERY_STRING} !^action=logout
+#RewriteCond %{QUERY_STRING} !^action=rp
+#RewriteCond %{QUERY_STRING} !^action=postpass
+#RewriteCond %{HTTP_COOKIE} !^.*wordpress_logged_in_.*$
+#RewriteRule ^.*wp-admin/?|^.*wp-login\.php /wordpresstest/not_found [R,L]
+#RewriteCond %{QUERY_STRING} ^loggedout=true
+#RewriteRule ^.*$ /wp-login.php?123456r [R,L]
+#</IfModule>
+

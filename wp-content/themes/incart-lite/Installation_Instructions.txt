@@ -1,0 +1,59 @@
+/*========= Incart Lite =========*/
+
+== Copyright and License ==
+Incart Lite WordPress Theme, Copyright 2014 SketchThemes.
+Incart Lite WordPress theme is distributed under the terms of the GNU GPL.
+
+/*========= Installation =========*/
+
+1. Upload the 'inacrt-lite` folder to the `/wp-content/themes/` directory
+Activation and Use
+1. Activate the Theme through the 'Themes' menu in WordPress
+2. See Appearance -> Incart Options to change theme options
+3. See Settings -> Reading -> Choose a Page for the Front page and Page for Posts page from drop-down.
+
+   "When you choose a Page for the Front page from drop-down, the contents of Selected page aren't displayed anywhere on the static front page."
+
+   "default your latest posts are show on front page if you are not select any page for front page."
+
+/*========= Theme Features and Documentation =========*/
+
+== WP Version ==
+
+It's requires at least version 4.1 to work properly.Please make sure your WP version is at least 3.4.
+
+
+== Theme Setup ==
+
+*General Settings:*
+1)Choose Theme Color.
+2)Upload a favicon.
+
+
+*Header Settings:*
+1) Change Logo.
+2) Header Static Image.
+3) Mobile Menu Activate Width.
+
+
+*Top Bar Settings:*
+1) Social Follow Icons
+2) Contact Number
+
+
+*Blog Settings :*
+1)  Enter Blog Page Title.
+
+*Home Page Featured Section
+
+*Home Page Parallax Section
+
+*Footer :*
+1) Enter Your Copyright Text(You can use HTML for links.)
+
+
+Plase install Contact Form 7 plugin and put shortcode in page content to show contact form on contact page.
+
+/*========= Translation =========*/
+
+The Incart Lite is ready for translation. Translation files are in /languages.
