@@ -1,0 +1,93 @@
+@media screen and (max-width: 540px) {
+	.menu{
+		display: none;
+	}
+
+	.logo{
+		float: left;
+		margin-left: 3%;
+	}
+
+	.burger_menu{
+		float: right;
+		margin-right: 3%;
+	}
+
+	header{
+		padding: 3px 0 2px;
+	}
+
+	.logo img {
+		max-width: 70px;
+	}
+
+}
+
+
+@media screen and (max-width: 470px) {
+	.left_col_main_categories{
+		width: 100%;
+	}
+
+	.belt_main_categories{
+		width: 100%;
+		margin-bottom: 2px;
+	}
+
+	.right_col_main_categories{
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 560px) {
+	.menu_footer li{
+		height: 30px;
+		width: 49%;
+		max-width: 530px;
+	}
+	.menu_footer li a{
+		font-size: 12px;
+	}
+	.menu_footer{
+		line-height: 30px;
+		width: 35%;
+		margin-left: 3%;
+	}
+
+	.icons_social_networks{
+		width: 30%;
+		top: 19%;
+	}
+
+	.icons_social_networks img{
+		width: 30px;
+	}
+}
+
+@media screen and (max-width: 510px) {
+	.menu_footer{
+		width: 50%;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.icons_social_networks{
+		width: 40%;
+	}
+}
+
+@media screen and (max-width: 365px) {
+	.menu_footer li{
+		height: 18px;
+		width: 100%;
+	}
+	.menu_footer{
+		line-height: 18px;
+		width: 40%;
+	}
+	.icons_social_networks{
+		width: 45%;
+		top: 25%;
+		min-width: 115px;
+	}
+}

@@ -1,0 +1,486 @@
+/*
+Name: Main CSS file for wp-shop plugin. Enjoy:)
+Author: WP Shop Team
+Author URI: http://www.wp-shop.ru
+*/
+
+.wpshop_buy td 
+{
+	/*display:table-cell;*/
+	padding:5px;
+	/*text-align:left;*/
+	text-indent:0;
+}	
+
+.vitrina_element
+{
+	padding: 0px 20px 0px 0px;
+	height: 100%;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: none !important;
+}
+
+.vitrina_header a
+{
+	text-decoration:none;
+	display:table-cell;
+    vertical-align:middle;
+}
+
+.vitrina_detail
+{
+	margin-top:20px;
+}
+
+.wpshop_count input
+{
+	font-size:11px;
+	height:15px;
+	width:20px;
+}
+
+.price_table
+{
+	width:100%;
+}
+
+.wpshop_mini_sum
+{
+	float:left;
+	margin:5px;
+}
+.wpshop_mini_count
+{
+	margin:5px;
+	float:left;
+}
+
+#wpshop_minicart
+{
+	float:left;
+}
+
+.minicart
+{
+	margin:5px;
+}
+
+.widgettitle
+{
+	font-size:14px;
+}
+
+.discount_row
+{
+	color:green;
+}
+
+
+.wpshop_buy_new .wpshop_price
+{
+	padding:1px;
+}
+
+.wpshop_buy_new .wpshop_count
+{
+	padding:3px;
+}
+
+.wpshop_buy_new .wpshop_button
+{
+	padding:1px;
+}
+
+.wpshop-auth-site {
+	width: 45%;
+	float: left;
+	margin-right: 5%;
+}
+
+.wpshop_bag
+{
+	margin:0px;
+	max-width:280px;	
+}
+
+.wpshop_post_block
+{
+	float:right;
+}
+
+.wpshop_table_td .wpshop_bag 
+{
+	float:right;
+}
+
+.over_wpshop_buy
+{
+	overflow:hidden;
+}
+
+.wpshop_post_block .over_wpshop_buy
+{
+	float:left;
+}
+.wpshop_post_block .wpshop_buy
+{
+	float:right;
+}
+
+.wpshop_buy_new td
+{
+	vertical-align:middle !important;
+}
+
+.vitrina_element .wpshop_bag
+{
+	float:none;
+}
+.wpshop_properties{	overflow:hidden;}
+.wpshop_properties dt
+{
+	float:left;
+	margin:5px;
+}
+
+/*Admin*/
+#wp-shop-p-editing table td
+{
+	padding:5px;
+}
+
+#wpshop-wpfield{	width:200px;}
+
+
+.wpshop_plus_icon
+{
+	background-image:url("images/plus_icon.gif");
+}
+
+.wpshop_minus_icon
+{
+	background-image: url("images/minus_icon.gif");
+}
+
+.wpshop_animate_icon
+{
+	background-color: #C4D2E1;
+	width:17px;
+	height:17px;
+	cursor: pointer;
+}
+
+#wpshop_order_info
+{
+	float:left;
+}
+
+#wpshop_order_info div
+{
+	margin:10px;
+	font-size:18px;
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+}
+
+#wpshop_orders_list td
+{
+	padding: 5px;
+}
+
+.wpshop_pagers
+{
+	
+}
+
+.wpshop_ask_after{
+	
+}
+
+.wpshop_pagers li
+{
+	background-color: #DFDFDF;
+	float: left;
+	margin:3px;
+	font-size:16px;
+	padding:3px; 
+	border: 1px solid #21759B;
+}
+
+.cart-payments li
+{
+/*
+	border-top: 0;
+	border-left: 0;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+*/
+	border: 1px solid;
+	
+	list-style-type: none;
+	margin-left:0px;
+	padding:10px;
+	float: left;
+}
+
+#mode-paymets-title
+{
+	padding: 5px;
+	margin-top: 5px;
+	background-color: #EEEEEE;
+	border:1px solid;
+	font-weight: bold;
+}
+
+#payments-table
+{
+	width: 100%;
+	position: relative;
+	float: left;
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+
+#payments-table ul {
+	margin: 0px -15px;
+	box-sizing: content-box;
+}
+
+#payments-table li {
+	list-style: none !important;
+	float: left;
+	text-align: center;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 20px;
+}
+
+.recycle_bin, #wpshop_cart {
+	margin-bottom: 20px;
+}
+
+#payments-table a
+{
+	text-decoration:none;
+}
+
+#payments-table td, #payments-table th
+{
+	border: 1px solid;
+	padding:5px;
+	text-align: center;
+}
+
+.inside
+{
+	overflow:hidden;
+}
+
+#wpshop_shadow_window {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background-color: black;
+	z-index: 1000;
+	opacity: 0.7;
+}
+
+#wpshop_background_alert_put_to_cart {
+	width: 100%;
+	z-index: 1001;
+	position: fixed
+}
+
+#wpshop_background_alert_put_to_cart > div{
+	margin: 100px auto;
+	padding: 30px;
+	width: 400px;
+	height: 130px;
+	background-color: white;
+	text-align:center;
+}
+
+#wpshop_modal {
+	width: 100%;
+	z-index: 1001;
+	position: fixed
+}
+
+#wpshop_modal > div{
+	margin: 100px auto;
+	padding: 30px;
+	width: 400px;
+	min-height: 130px;
+	background-color: white;
+	position: relative;
+}
+
+#wpshop_modal a#close {
+	color: #555;
+	background-color: #ddd;
+	border-left: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 3px 3px 2px 4px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 15px;
+	height: 15px;
+	text-align: center;
+	font-size: 13px;
+	line-height: 13px;
+}
+
+#wpshop_modal > div h1.page_title {
+	text-align: center;
+}
+
+.wpshop-button {
+	padding:5px;
+	background-color:gray;
+	margin:5px;
+	font-size:12px;
+	cursor:pointer;
+} 
+
+tr.sklad td {
+	text-align: center;
+	padding-bottom: 5px !important;
+}
+
+#wpshop_alert_put_to_cart_buttons {
+	padding-top:30px;
+}
+
+ul.custom_del {
+	padding-top:10px;
+}
+
+.custom_del li {
+	list-style: none !important;
+	float: left;
+	text-align: center;
+	margin-right: 15px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+.custom_del li.select {
+	border: 1px solid #eaeaea;
+	background: #fff;
+	padding: 8px;
+}
+
+.custom_del li a img {
+	margin-bottom: 5px;
+}
+
+.custom_del li a {
+	cursor: pointer;
+}
+
+#delivery_name {
+	font-size: 1.1em;
+	color: #000;
+	font-style: italic;
+}
+
+.custom_del li a.info {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.inline-edit-book {
+	clear: both;
+}
+
+td.column-cost,
+th#cost,
+td.column-sklad,
+th#sklad {
+	width: 100px;
+}
+
+.wpshop_pagg {
+	padding-top: 20px;
+}
+
+.wpshop_pagg span{
+	display: inline-block;
+	padding: 4px 10px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #000000;
+	background: #f7f7f7;
+	border: 1px solid #e3e3e3;
+	margin: 0px 2px;
+}
+
+.wpshop_pagg a{
+	display: inline-block;
+	padding: 4px 10px;
+	text-decoration: none;
+	color: #000;
+	border: 1px solid #e3e3e3;
+	margin: 0px 2px;
+}
+
+.wpshop_pagg a:hover {
+	background: #f7f7f7;
+	color: #000;
+}
+
+.wpshop_information {
+	border-left: 2px dotted #000;
+	padding-left: 20px;
+	max-width: 400px;
+}
+
+#poststuff.narr{
+  min-width: 728px;
+}
+
+#poststuff .wpshop_information  h3 {
+	font-size: 25px;
+	border: none;
+	color: blue;
+	padding: 10px 0px;
+}
+
+#poststuff .wpshop_information  h2 {
+	font-size: 60px;
+	line-height: 1;
+}
+
+#poststuff .wpshop_information  a {
+	float: right;
+}
+
+.wp-shop_delete_all {
+	display: block;
+	width: 200px;
+	background: red;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.wp-shop_delete_all {
+	display: block;
+	width: 200px;
+	background: red;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+	font-size: 14px;
+	text-decoration: none;
+	margin-top: 10px;
+}
+
+.wp-shop_delete_all:hover {
+	background: blue;
+	color: white;
+}
+

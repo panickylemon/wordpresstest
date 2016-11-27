@@ -1,0 +1,1678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-shop\n"
+"POT-Creation-Date: 2015-05-14 20:23+0400\n"
+"PO-Revision-Date: 2015-05-26 19:34+0200\n"
+"Last-Translator: WP Shop.ru <masta@wp-shop.ru>\n"
+"Language-Team: Sergey Makarin <serg.makarin@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\wp-shop-original\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wp-shop-original\n"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Admin.php:25
+#: C:\wp-shop-original/classes/class.Wpshop.Admin.php:26
+msgid "WP Shop Settings"
+msgstr "Налаштування крамниці"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Admin.php:25
+msgid "WP Shop"
+msgstr "Крамниця"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Admin.php:27
+msgid "WP Shop Orders"
+msgstr "Закази"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Admin.php:28
+msgid "WP Shop Payments"
+msgstr "Налаштування проплати"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Admin.php:32
+msgid "WP Shop Deliveries"
+msgstr "Налаштування доставки"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Admin.php:222
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:47
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:85
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:130
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:196
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:235
+#: C:\wp-shop-original/views/admin/orders.order.php:9
+#: C:\wp-shop-original/views/good.widget.inc.php:33
+msgid "Order"
+msgstr "Замовлення"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:129
+#: C:\wp-shop-original/views/RecycleBin.php:55
+msgid "You need activate support of JavaScript and Cookies in your browser."
+msgstr ""
+"У вашему браузері відключено підтримку JavaScript та Cookies. Необхідно "
+"увімкнути ці параметри."
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:208
+#: C:\wp-shop-original/views/admin/orders.order.php:76
+#: C:\wp-shop-original/views/mail/admin.php:19
+#: C:\wp-shop-original/views/mail/client.php:19
+#: C:\wp-shop-original/views/mail/client1.php:6
+msgid "Name"
+msgstr "Найменування"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:209
+#: C:\wp-shop-original/views/admin/delivery.php:11
+#: C:\wp-shop-original/views/admin/delivery.php:25
+#: C:\wp-shop-original/views/admin/delivery.php:39
+#: C:\wp-shop-original/views/admin/delivery.php:51
+#: C:\wp-shop-original/views/admin/orders.order.php:79
+#: C:\wp-shop-original/views/mail/admin.php:21
+#: C:\wp-shop-original/views/mail/client.php:21
+#: C:\wp-shop-original/views/mail/client1.php:6
+msgid "Price"
+msgstr "Вартість"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:210
+#: C:\wp-shop-original/views/mail/admin.php:22
+#: C:\wp-shop-original/views/mail/client.php:22
+#: C:\wp-shop-original/views/mail/client1.php:6
+msgid "Qty"
+msgstr "Кількість"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:211
+#: C:\wp-shop-original/views/mail/admin.php:23
+#: C:\wp-shop-original/views/mail/client.php:23
+#: C:\wp-shop-original/views/mail/client1.php:6
+msgid "Sum"
+msgstr "Сума"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:213
+msgid "Successfully added to cart!"
+msgstr "Додано до кошику!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:216
+msgid "To do order"
+msgstr "Оформити замовлення"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:217
+msgid "Continue select"
+msgstr "Продовжити закупівлю"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:218
+msgid "In stock"
+msgstr "Залишок на складі"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:219
+msgid "pcs."
+msgstr "шт."
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:220
+#: C:\wp-shop-original/views/admin/orders.php:149
+msgid "Delete"
+msgstr "Видалити"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:221
+msgid "TOTAL:"
+msgstr "ЗАГАЛОМ:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:222
+msgid "Delete all"
+msgstr "Видалити все"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:223
+msgid "Empty your shoping cart"
+msgstr "Очистити Ваш кошик"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:224
+msgid "Your discount:"
+msgstr "Ваша знижка:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:225
+msgid "TOTAL with discount"
+msgstr "ЗАГАЛОМ зі знижкою:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:226
+msgid "Price with delivery"
+msgstr "Вартість з урахуванням постачання"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:227
+msgid "Items:"
+msgstr "Позицій:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:228
+#: C:\wp-shop-original/classes/class.Wpshop.RecycleBin.php:351
+#: C:\wp-shop-original/views/mail/admin.php:44
+#: C:\wp-shop-original/views/mail/client.php:43
+#: C:\wp-shop-original/views/mail/client1.php:25
+msgid "Total:"
+msgstr "Загалом:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:230
+msgid "Submit order"
+msgstr "Оформити замовлення"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:232
+msgid "Continue shopping"
+msgstr "Продовжити закупівлю"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:233
+msgid "Your shopping cart is empty!"
+msgstr "Ваш кошик порожній!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Boot.php:234
+msgid "Stock error"
+msgstr "Замовлення перевищує залишок на складі"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Delivery.php:23
+msgid "Mail delivery across the country"
+msgstr "Доставка поштою по країні"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Delivery.php:28
+msgid "International mail delivery"
+msgstr "Міжнародна доставка поштою"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Delivery.php:33
+msgid "Delivery by courier"
+msgstr "Доставка кур'єром"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Delivery.php:38
+#: C:\wp-shop-original/views/admin/delivery.php:47
+msgid "A visit to the office"
+msgstr "Візит до нашого офісу"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Delivery.php:43
+msgid "User delivery"
+msgstr "Доставка користувача"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ExImp.php:20
+msgid "WP Shop Export/Import"
+msgstr "Експорт / Імпорт"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Installer.php:164
+msgid "$"
+msgstr "грн."
+
+#: C:\wp-shop-original/classes/class.Wpshop.Installer.php:186
+msgid ""
+"Amount of your order is below of the minimum. Please order something else!"
+msgstr ""
+"Сума Вашого замовлення нище мінімальної. Будьте ласкаві, замовте ще що-небудь!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Orders.php:9
+msgid "New"
+msgstr "Новий"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Orders.php:10
+msgid "Paid"
+msgstr "Сплачено"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Orders.php:11
+msgid "Cancelled"
+msgstr "Відмінено"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Orders.php:12
+msgid "In the process"
+msgstr "Обробляється"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Orders.php:13
+msgid "Delivered"
+msgstr "Доставлено"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Orders.php:14
+msgid "Archive"
+msgstr "Архів"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:25
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:36
+msgid "WP Shop Carts"
+msgstr "Налаштування кошиків"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:28
+msgid "Add new shopping cart"
+msgstr "Додати новий кошик"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:29
+msgid "Edit your shopping cart"
+msgstr "Редагувати кошик"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:30
+msgid "New book"
+msgstr "Нова книга"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:31
+msgid "View Book"
+msgstr "Переглянути книгу"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:32
+msgid "Search book"
+msgstr "Знайти книгу"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:34
+msgid "No books in your shopping cart"
+msgstr "У кошику книг не знайдено"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:65
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:76
+msgid "WP Shop User Deliveries"
+msgstr "Доставка користувача"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:68
+msgid "Add new user delivery"
+msgstr "Додати спосіб доставки"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:69
+msgid "Edit your delivery"
+msgstr "Змінити"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:70
+msgid "New delivery"
+msgstr "Новий спосіб доставки"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:71
+msgid "View delivery"
+msgstr "Переглянути"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:72
+msgid "Search delivery"
+msgstr "Шукати"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:74
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:106
+msgid "Not found"
+msgstr "Не знайдено"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:97
+msgid "WP Shop Client Mail"
+msgstr "Налаштування листів"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:100
+msgid "Add new mail"
+msgstr "Додати новий шаблон лисування"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:101
+msgid "Edit your mail"
+msgstr "Змінити шаблон листування"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:102
+msgid "New mail"
+msgstr "Новий шаблон листування"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:103
+msgid "View mail"
+msgstr "Переглянути шаблон листування"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:104
+msgid "Search mail"
+msgstr "Шукати шаблон листування"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:108
+msgid "WP Shop Mail Constructor"
+msgstr "Редактор листів"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:128
+msgid "Payment page"
+msgstr "Платіжна сторінка"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:129
+msgid "Payment"
+msgstr "Платіж"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Page.php:161
+msgid "not marked"
+msgstr "не відмічено"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:32
+#: C:\wp-shop-original/views/admin/payments.php:13
+msgid "Self-delivery"
+msgstr "Самостійний вивіз"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:33
+msgid "Making order using 'Self-delivery' goods from our store / office"
+msgstr ""
+"Оформлення замовлення через ‘самостійний вивіз’ товару з нашої крамниці/офісу"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:35
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:50
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:65
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:80
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:96
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:111
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:128
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:144
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:160
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:177
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:194
+msgid "Order type:"
+msgstr "Тип замовлення:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:35
+msgid "Visit to our office"
+msgstr "Візит до нашего офісу"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:36
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:51
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:66
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:81
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:97
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:112
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:129
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:145
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:161
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:178
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:195
+msgid "For making order please fill up the form:"
+msgstr "Для оформлення замовлення заповніть цю форму:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:37
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:52
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:67
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:82
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:98
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:113
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:130
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:146
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:162
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:179
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:196
+msgid "Your name"
+msgstr "Ваше і'мя"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:38
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:53
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:68
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:83
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:99
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:114
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:131
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:147
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:163
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:180
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:197
+msgid "Contact phone"
+msgstr "Контактний телефон"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:39
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:54
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:69
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:84
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:100
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:115
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:132
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:148
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:164
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:181
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:198
+#: C:\wp-shop-original/classes/class.Wpshop.Profile.php:61
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:45
+msgid "Address"
+msgstr "Адреса"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:40
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:55
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:70
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:85
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:101
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:116
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:133
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:149
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:165
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:182
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:199
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:42
+#: C:\wp-shop-original/views/admin/orders.order.php:25
+#: C:\wp-shop-original/views/admin/orders.php:128
+msgid "E-mail"
+msgstr "E-mail"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:41
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:56
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:71
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:86
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:102
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:117
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:134
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:150
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:166
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:183
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:200
+msgid "Comment to the order"
+msgstr "Коментар до замовлення"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:47
+msgid "Making order with cash payment to courier when your goods delivered"
+msgstr "Оформлення замовлення з проплатою готвікою кур'єру при отриманні товару"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:48
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:50
+#: C:\wp-shop-original/views/admin/payments.php:50
+msgid "Cash to courier"
+msgstr "Готвікою кур'єру"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:62
+msgid ""
+"Making order with payment at post-offce before receiving (Cash on delivery)"
+msgstr "Оформлення замовлення з проплатою на пошті при отриманні товару"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:63
+msgid "Cash on delivery"
+msgstr "Післяплата"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:65
+#: C:\wp-shop-original/views/RecycleBin.php:503
+msgid "Post"
+msgstr "Пошта"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:77
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:80
+msgid "Making order using Web-money payment system"
+msgstr "Оформлення замовлення з проплатою через систему ‘Web-Money’"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:88
+msgid ""
+"To pay your order, click the button above 'Pay WM'. <br/> After your payment, "
+"we will get data of your payment and our manager will contact you to arrange "
+"the delivery. <br/> Thank you for using our service!"
+msgstr ""
+"Для здійснення проплати Вашего замовлення натисніть кнопку вище 'Сплатити WM'."
+"<br/>Після проведення Вами оплати замовлення - інформація передається нам, та "
+"наш менеджер обов'язково зв'яжеться з Вами щодо уточнення деталей постачання."
+"<br/>Дякуэмо за використання нашого сервісу!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:93
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:96
+msgid "Cashless payment"
+msgstr "Безготівковий розрахунок"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:94
+msgid "Making order with payment using bank account (Non-cash payment)"
+msgstr "Оформлення заказу с проплатою через банк (безготівковий розрахунок)"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:109
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:111
+msgid "Making order with payment using ‘RoboKassa.ru’ payment system"
+msgstr "Оформлення заказу с проплатою через систему ‘RoboKassa.ru’"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:120
+msgid ""
+"Select the appropriate payment method from the list of the available options "
+"and initiate the payment. When we will get payment data, our manager will "
+"contact you using your contact number for further details on your order. "
+"<br>Thank you for using our service!"
+msgstr ""
+"Оберіть найбільш зручний для Вас спосіб проплати із списка варіантів, та "
+"здійсніть платіж. Данні за здійсненому Вами платежу надійдуть нашим "
+"менеджерам, які зв'яжутся з Вами за контактним телефоном, з метою уточнення "
+"деталей Вашого заказу.<br>Дякуємо за користування нашим сервісом!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:126
+msgid "Making order using Pay Pal payment system"
+msgstr "Оформлення заказу з проплатою через систему PayPal"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:128
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:144
+msgid "Making order with payment using ‘Pay Pal’ payment system"
+msgstr "Оформлення заказу з проплатою через систему ‘Pay Pal’"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:136
+msgid ""
+"To pay your order, click the button above 'Pay PayPal'. <br/> After your "
+"payment, we will get data of your payment and our manager will contact you to "
+"arrange the delivery. <br/> Thank you for using our service!"
+msgstr ""
+"Для здійснення проплати Вашего замовлення натисніть кнопку вище 'Сплатити "
+"PayPal'.<br/>Після проведення Вами оплати замовлення - інформація передається "
+"нам, та наш менеджер обов'язково зв'яжеться з Вами щодо уточнення деталей "
+"постачання.<br/>Дякуэмо за використання нашого сервісу!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:142
+msgid "Making order using Simplepay payment system"
+msgstr ""
+"Оформлення замовлення через систему Simplepay товару з нашої крамниці/офісу"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:152
+msgid ""
+"To pay your order, click the button above 'Simplepay'. <br/> After your "
+"payment, we will get data of your payment and our manager will contact you to "
+"arrange the delivery. <br/> Thank you for using our service!"
+msgstr ""
+"Для здійснення проплати Вашего замовлення натисніть кнопку вище 'Сплатити у "
+"simplepay'.<br/>Після проведення Вами оплати замовлення - інформація "
+"передається нам, та наш менеджер обов'язково зв'яжеться з Вами щодо уточнення "
+"деталей постачання.<br/>Дякуэмо за використання нашого сервісу!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:157
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:160
+msgid "Making order using Edinaya kassa payment system"
+msgstr "Оформлення замовлення через систему ‘Единая касса’"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:169
+msgid ""
+"To pay your order, click the button above 'Pay EK'. <br/> After your payment, "
+"we will get data of your payment and our manager will contact you to arrange "
+"the delivery. <br/> Thank you for using our service!"
+msgstr ""
+"Для здійснення проплати Вашего замовлення натисніть кнопку вище 'Сплатити у "
+"Единій касі'.<br/>Після проведення Вами оплати замовлення - інформація "
+"передається нам, та наш менеджер обов'язково зв'яжеться з Вами щодо уточнення "
+"деталей постачання.<br/>Дякуэмо за використання нашого сервісу!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:174
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:177
+msgid "Making order using Yandex kassa payment system"
+msgstr "Оформлення замовлення через систему ‘Yandex каса’"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:186
+msgid ""
+"To pay your order, click the button above 'Pay Yandex kassa'. <br/> After your "
+"payment, we will get data of your payment and our manager will contact you to "
+"arrange the delivery. <br/> Thank you for using our service!"
+msgstr ""
+"Для здійснення проплати Вашего замовлення натисніть кнопку вище 'Сплатити у "
+"Yandex каса'.<br/>Після проведення Вами оплати замовлення - інформація "
+"передається нам, та наш менеджер обов'язково зв'яжеться з Вами щодо уточнення "
+"деталей постачання.<br/>Дякуэмо за використання нашого сервісу!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:192
+msgid "Making order using Chronopay payment system"
+msgstr "Оформлення замовлення через систему ‘Chronopay’"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:194
+msgid "Making order with payment using ‘Chronopay’ payment system"
+msgstr "Оформлення замовлення через систему ‘Chronopay’"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Payment.php:202
+msgid ""
+"To pay your order, click the button above 'Chronopay'. <br/> After your "
+"payment, we will get data of your payment and our manager will contact you to "
+"arrange the delivery. <br/> Thank you for using our service!"
+msgstr ""
+"Для здійснення проплати Вашего замовлення натисніть кнопку вище 'Сплатити "
+"Chronopay'.<br/>Після проведення Вами оплати замовлення - інформація "
+"передається нам, та наш менеджер обов'язково зв'яжеться з Вами щодо уточнення "
+"деталей постачання.<br/>Дякуэмо за використання нашого сервісу!"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Post.php:18
+#: C:\wp-shop-original/classes/class.Wpshop.Post.php:77
+msgid "Цена"
+msgstr ""
+
+#: C:\wp-shop-original/classes/class.Wpshop.Post.php:19
+#: C:\wp-shop-original/classes/class.Wpshop.Post.php:80
+msgid "Кол-во"
+msgstr ""
+
+#: C:\wp-shop-original/classes/class.Wpshop.Profile.php:60
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:44
+msgid "Phone"
+msgstr "Телефони"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Profile.php:62
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:46
+msgid "Company name"
+msgstr "Ім'я компанії"
+
+#: C:\wp-shop-original/classes/class.Wpshop.Profile.php:63
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:47
+msgid "Description"
+msgstr "Примітка"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:10
+msgid "WPShop profile widget"
+msgstr "Данні вашего профілю"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:13
+msgid "This show profile information"
+msgstr ""
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:35
+msgid "You authorized as"
+msgstr "Вас авторизовано як"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:35
+msgid "logout"
+msgstr "вийти"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:36
+msgid "Your profile data:"
+msgstr "Данні вашего профілю"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:36
+msgid "edit"
+msgstr "редагувати"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:38
+#: C:\wp-shop-original/views/RecycleBin.php:253
+msgid "Login:"
+msgstr "Логін:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:39
+msgid "First Name:"
+msgstr "Ім'я:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:40
+msgid "Last Name:"
+msgstr "Прізвище:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:41
+msgid "Nick-name:"
+msgstr "Нік:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:43
+msgid "Site"
+msgstr "Сайт:"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:51
+msgid "Hello"
+msgstr "Доброго дня"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:51
+msgid "Guest"
+msgstr "Гість"
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:66
+msgid "New title"
+msgstr ""
+
+#: C:\wp-shop-original/classes/class.Wpshop.ProfileWidget.php:71
+msgid "Title:"
+msgstr ""
+
+#: C:\wp-shop-original/classes/class.Wpshop.RecycleBin.php:151
+msgid "New Order"
+msgstr "Нове замовлення"
+
+#: C:\wp-shop-original/classes/class.Wpshop.RecycleBin.php:151
+#: C:\wp-shop-original/classes/class.Wpshop.RecycleBin.php:163
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:47
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:85
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:130
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:196
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:235
+msgid "from site"
+msgstr "з сайту"
+
+#: C:\wp-shop-original/classes/class.Wpshop.RecycleBin.php:163
+msgid "Your order"
+msgstr "Ваше замовлення"
+
+#: C:\wp-shop-original/classes/class.Wpshop.RecycleBin.php:353
+msgid "With discount"
+msgstr "Зі знижкою"
+
+#: C:\wp-shop-original/views/RecycleBin.php:163
+msgid "Lenght of the login needs to be 3 to 16 characters."
+msgstr "Довжина логіну повинна бути від 3 до 16 символів"
+
+#: C:\wp-shop-original/views/RecycleBin.php:166
+msgid "Lenght of the password needs to be 3 to 16 characters."
+msgstr "Довжина паролю повинна бути від 3 до 16 символів"
+
+#: C:\wp-shop-original/views/RecycleBin.php:169
+msgid "Incorrect E-mail."
+msgstr "Не коректно вказаний E-mail"
+
+#: C:\wp-shop-original/views/RecycleBin.php:235
+msgid "Checkout as a registered user:"
+msgstr "Оформити замовлення як зареєстрований користучвач:"
+
+#: C:\wp-shop-original/views/RecycleBin.php:236
+msgid "Registration on the site:"
+msgstr "Реєстрація на сайті:"
+
+#: C:\wp-shop-original/views/RecycleBin.php:246
+msgid "You have been successfull registered!"
+msgstr "Вас успішно зареєстровано!"
+
+#: C:\wp-shop-original/views/RecycleBin.php:259
+#: C:\wp-shop-original/views/admin/payments.php:677
+msgid "Password"
+msgstr "Пароль"
+
+#: C:\wp-shop-original/views/RecycleBin.php:271
+#: C:\wp-shop-original/views/RecycleBin.php:276
+msgid "Enter"
+msgstr "Увійти"
+
+#: C:\wp-shop-original/views/RecycleBin.php:272
+#: C:\wp-shop-original/views/RecycleBin.php:275
+msgid "Register"
+msgstr "Реєстрація"
+
+#: C:\wp-shop-original/views/RecycleBin.php:283
+msgid "Or checkout as a guest"
+msgstr "Або оформити замовлення як гість"
+
+#: C:\wp-shop-original/views/RecycleBin.php:290
+msgid "Checkout as a guest"
+msgstr "Оформити замовлення як гість"
+
+#: C:\wp-shop-original/views/RecycleBin.php:310
+msgid "Select a payment method"
+msgstr "Оберіть спосіб проплати"
+
+#: C:\wp-shop-original/views/RecycleBin.php:355
+msgid ""
+"Payment is made through a payment service Yandex kassa <br/> Small extra "
+"comission."
+msgstr "Оплата здійснюється через платіжний сервіс 'Yandex касса'"
+
+#: C:\wp-shop-original/views/RecycleBin.php:361
+#: C:\wp-shop-original/views/RecycleBin.php:400
+#: C:\wp-shop-original/views/RecycleBin.php:478
+msgid "Yandex - Money"
+msgstr "Яндекс - Гроші"
+
+#: C:\wp-shop-original/views/RecycleBin.php:365
+msgid "Credit card"
+msgstr "Пластикові картки"
+
+#: C:\wp-shop-original/views/RecycleBin.php:369
+#: C:\wp-shop-original/views/RecycleBin.php:420
+msgid "Terminals"
+msgstr "Термінали"
+
+#: C:\wp-shop-original/views/RecycleBin.php:373
+msgid "Mobile"
+msgstr "Мобільний телефон"
+
+#: C:\wp-shop-original/views/RecycleBin.php:378
+msgid "Webmoney"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:384
+msgid "Sberbank online"
+msgstr "Сбербанк-онлайн"
+
+#: C:\wp-shop-original/views/RecycleBin.php:394
+msgid ""
+"Payment is made through a payment service RoboKassa.ru <br/> Small extra "
+"comission."
+msgstr "Оплата здійснюється через платіжний сервіс 'РобоКаса'"
+
+#: C:\wp-shop-original/views/RecycleBin.php:409
+msgid "Terminals QIWI"
+msgstr "Термінали QIWI"
+
+#: C:\wp-shop-original/views/RecycleBin.php:425
+msgid "Mobile retails"
+msgstr "Салони з'вязку"
+
+#: C:\wp-shop-original/views/RecycleBin.php:429
+msgid "Alfa Click"
+msgstr "Альфа-Клік"
+
+#: C:\wp-shop-original/views/RecycleBin.php:433
+msgid "MTS"
+msgstr "МТС"
+
+#: C:\wp-shop-original/views/RecycleBin.php:437
+#: C:\wp-shop-original/views/RecycleBin.php:518
+msgid "beeline"
+msgstr "Білайн"
+
+#: C:\wp-shop-original/views/RecycleBin.php:441
+#: C:\wp-shop-original/views/RecycleBin.php:468
+msgid "mastercard"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:445
+msgid "mailrumoney"
+msgstr "Гроші@Mail.Ru"
+
+#: C:\wp-shop-original/views/RecycleBin.php:449
+msgid "Walletone"
+msgstr "Единая касса"
+
+#: C:\wp-shop-original/views/RecycleBin.php:458
+msgid "Payment is made through a payment service EK <br/> Small extra comission."
+msgstr "Оплата здійснюється через платіжний сервіс 'Едина каса'"
+
+#: C:\wp-shop-original/views/RecycleBin.php:463
+msgid "visa"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:473
+msgid "Sberbank-online"
+msgstr "Сбербанк-онлайн"
+
+#: C:\wp-shop-original/views/RecycleBin.php:483
+msgid "Qiwi"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:488
+msgid "Promsvyazbank"
+msgstr "Промзв'язокбанк"
+
+#: C:\wp-shop-original/views/RecycleBin.php:493
+msgid "Alfa-bank"
+msgstr "Альфа-банк"
+
+#: C:\wp-shop-original/views/RecycleBin.php:498
+msgid "Privat bank"
+msgstr "Приватбанк"
+
+#: C:\wp-shop-original/views/RecycleBin.php:508
+msgid "Leader"
+msgstr "Лідер"
+
+#: C:\wp-shop-original/views/RecycleBin.php:513
+#: C:\wp-shop-original/views/admin/payments.php:274
+msgid "WalletOne"
+msgstr "Едина каса"
+
+#: C:\wp-shop-original/views/RecycleBin.php:523
+msgid "mts"
+msgstr "МТС"
+
+#: C:\wp-shop-original/views/RecycleBin.php:528
+msgid "megafon"
+msgstr "Мегафон"
+
+#: C:\wp-shop-original/views/RecycleBin.php:533
+msgid "Kievstar"
+msgstr "Київстар"
+
+#: C:\wp-shop-original/views/RecycleBin.php:538
+msgid "Euroset"
+msgstr "Евромережа"
+
+#: C:\wp-shop-original/views/RecycleBin.php:543
+msgid "Svyaznoy"
+msgstr "З'вязківець"
+
+#: C:\wp-shop-original/views/RecycleBin.php:548
+msgid "Unistream"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:553
+msgid "Moneygram"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:558
+msgid "LiqPay"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:563
+msgid "ZPayment"
+msgstr "ZPayment"
+
+#: C:\wp-shop-original/views/RecycleBin.php:568
+msgid "EasyPay"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:573
+msgid "B-pay"
+msgstr ""
+
+#: C:\wp-shop-original/views/RecycleBin.php:596
+msgid "Error: Not installed cforms II."
+msgstr "Помилка: не встановлено cforms II."
+
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:52
+msgid "Pay WM"
+msgstr "Сплатити WM"
+
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:69
+msgid "Pay Yandex kassa"
+msgstr "Сплатити Yandex каса"
+
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:152
+msgid "Pay EK"
+msgstr "Сплатити у Единій касі"
+
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:221
+msgid "Pay Simplepay"
+msgstr "Сплатити Simplepay"
+
+#: C:\wp-shop-original/views/RecycleBinAfterSend.php:277
+msgid "Pay Chronopay"
+msgstr "Сплатити Chronopay"
+
+#: C:\wp-shop-original/views/RecycleBinPayment.php:12
+msgid "Choose a delivery method:"
+msgstr "Оберіть варіант постачання:"
+
+#: C:\wp-shop-original/views/RecycleBinPayment.php:56
+#: C:\wp-shop-original/views/RecycleBinPayment.php:65
+msgid "more..."
+msgstr "Дедальніше про постачання..."
+
+#: C:\wp-shop-original/views/RecycleBinPayment.php:104
+msgid "Delivery details"
+msgstr "Дедальніше про постачання"
+
+#: C:\wp-shop-original/views/admin/delivery.php:2
+#: C:\wp-shop-original/views/admin/orders.order.php:129
+#: C:\wp-shop-original/views/admin/payments.php:23
+#: C:\wp-shop-original/views/admin/payments.php:59
+#: C:\wp-shop-original/views/admin/payments.php:94
+#: C:\wp-shop-original/views/admin/payments.php:130
+#: C:\wp-shop-original/views/admin/payments.php:178
+#: C:\wp-shop-original/views/admin/payments.php:284
+#: C:\wp-shop-original/views/admin/payments.php:323
+#: C:\wp-shop-original/views/admin/payments.php:409
+#: C:\wp-shop-original/views/admin/payments.php:487
+#: C:\wp-shop-original/views/admin/payments.php:551
+#: C:\wp-shop-original/views/admin/payments.php:630
+#: C:\wp-shop-original/views/mail/admin.php:57
+#: C:\wp-shop-original/views/mail/client.php:55
+#: C:\wp-shop-original/views/mail/client1.php:37
+msgid "Delivery"
+msgstr "Постачання"
+
+#: C:\wp-shop-original/views/admin/delivery.php:7
+msgid "Country mail"
+msgstr "Пошта по країні"
+
+#: C:\wp-shop-original/views/admin/delivery.php:21
+msgid "International mail"
+msgstr "Міжнародна пошта"
+
+#: C:\wp-shop-original/views/admin/delivery.php:35
+msgid "Express delivery"
+msgstr "Постачання кур'єром"
+
+#: C:\wp-shop-original/views/admin/delivery.php:59
+#: C:\wp-shop-original/views/admin/orders.order.php:65
+#: C:\wp-shop-original/views/admin/payments.php:686
+#: C:\wp-shop-original/views/admin/settings.php:232
+#: C:\wp-shop-original/views/admin/settings.php:285
+#: C:\wp-shop-original/views/admin/user.profile.php:24
+msgid "Save"
+msgstr "Зберегти"
+
+#: C:\wp-shop-original/views/admin/export-import.php:26
+msgid "Advanced import/export"
+msgstr "Розширений експорт/імпорт"
+
+#: C:\wp-shop-original/views/admin/export-import.php:29
+msgid "Exports"
+msgstr "Експорт"
+
+#: C:\wp-shop-original/views/admin/export-import.php:32
+msgid "Main fields"
+msgstr "Основні поля"
+
+#: C:\wp-shop-original/views/admin/export-import.php:47
+msgid "Custom fields (meta)"
+msgstr "Довільні поля (meta)"
+
+#: C:\wp-shop-original/views/admin/export-import.php:62
+msgid "The resulting fields"
+msgstr "Результуючі поля"
+
+#: C:\wp-shop-original/views/admin/export-import.php:89
+msgid "Export categories"
+msgstr "Експортувати категорії"
+
+#: C:\wp-shop-original/views/admin/export-import.php:90
+msgid "Export tags"
+msgstr "Експортувати мітки"
+
+#: C:\wp-shop-original/views/admin/export-import.php:91
+msgid "Export"
+msgstr "Експорт"
+
+#: C:\wp-shop-original/views/admin/export-import.php:98
+#: C:\wp-shop-original/views/admin/export-import.php:101
+msgid "Import"
+msgstr "Імпорт"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:2
+msgid "Back"
+msgstr "Назад"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:9
+msgid "Done orders"
+msgstr "Зроблені замовлення"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:13
+#: C:\wp-shop-original/views/admin/orders.php:105
+msgid "Date"
+msgstr "Дата"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:15
+#: C:\wp-shop-original/views/admin/orders.php:127
+msgid "Client"
+msgstr "Клієент"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:24
+msgid "ID"
+msgstr ""
+
+#: C:\wp-shop-original/views/admin/orders.order.php:26
+msgid "Payment method"
+msgstr "Спосіб проплати"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:27
+msgid "Delivery method"
+msgstr "Спосіб постачання"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:34
+msgid "not selected"
+msgstr "не вказано"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:39
+msgid "Order status"
+msgstr "Статус замовлення"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:56
+msgid "Client IP"
+msgstr "IP кліента"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:60
+msgid "Order comment"
+msgstr "Комментар до заказу"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:78
+msgid "Count"
+msgstr "Кіл-ть"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:80
+#: C:\wp-shop-original/views/admin/orders.order.php:119
+msgid "Total"
+msgstr "Загалом"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:110
+msgid "Download"
+msgstr "Завантажити"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:110
+msgid "Left download"
+msgstr "Залишилось завантажень"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:110
+msgid "Left time"
+msgstr "Залишилось часу"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:124
+msgid "Discount"
+msgstr "Зі знижкою:"
+
+#: C:\wp-shop-original/views/admin/orders.order.php:131
+#: C:\wp-shop-original/views/mail/admin.php:61
+#: C:\wp-shop-original/views/mail/client.php:59
+#: C:\wp-shop-original/views/mail/client1.php:40
+msgid "In all"
+msgstr "Загалом"
+
+#: C:\wp-shop-original/views/admin/orders.php:14
+msgid "Completed orders"
+msgstr "Зроблені замовлення"
+
+#: C:\wp-shop-original/views/admin/orders.php:20
+#: C:\wp-shop-original/views/admin/orders.php:111
+msgid "Filter"
+msgstr "Фільтр"
+
+#: C:\wp-shop-original/views/admin/orders.php:26
+#: C:\wp-shop-original/views/admin/orders.php:124
+msgid "Method of payment"
+msgstr "Форма проплаты"
+
+#: C:\wp-shop-original/views/admin/orders.php:57
+msgid "Shipping Method"
+msgstr "Метод постачання"
+
+#: C:\wp-shop-original/views/admin/orders.php:88
+#: C:\wp-shop-original/views/admin/orders.php:129
+msgid "Status"
+msgstr "Статус"
+
+#: C:\wp-shop-original/views/admin/orders.php:106
+msgid "from"
+msgstr "з"
+
+#: C:\wp-shop-original/views/admin/orders.php:107
+msgid "to"
+msgstr "по"
+
+#: C:\wp-shop-original/views/admin/orders.php:123
+msgid "N"
+msgstr "№"
+
+#: C:\wp-shop-original/views/admin/orders.php:125
+msgid "Delivery Method"
+msgstr "Метод постачання"
+
+#: C:\wp-shop-original/views/admin/orders.php:126
+msgid "Date / Time"
+msgstr "Дата / Час"
+
+#: C:\wp-shop-original/views/admin/orders.php:142
+msgid "undefined"
+msgstr "не визначено"
+
+#: C:\wp-shop-original/views/admin/orders.php:167
+msgid "not specified"
+msgstr "не вказано"
+
+#: C:\wp-shop-original/views/admin/orders.php:199
+msgid "Apply"
+msgstr "Підтвердити"
+
+#: C:\wp-shop-original/views/admin/payments.php:8
+msgid "Payment methods"
+msgstr "Спосіб проплати"
+
+#: C:\wp-shop-original/views/admin/payments.php:17
+msgid "Enable support for self-delivery from a store / office."
+msgstr "Вімкнути підтримку самовивозу із крамниці/офісу."
+
+#: C:\wp-shop-original/views/admin/payments.php:54
+msgid "Enable support for payment to courier"
+msgstr "Вімкнути підтримку проплати кур'єру"
+
+#: C:\wp-shop-original/views/admin/payments.php:85
+msgid "Cash on delivery (COD)"
+msgstr "Післяплата"
+
+#: C:\wp-shop-original/views/admin/payments.php:89
+msgid "Enable support for COD"
+msgstr "Вімкнути підтримку післяплати"
+
+#: C:\wp-shop-original/views/admin/payments.php:121
+msgid "Your bank account details"
+msgstr "Ваші банківські реквізити"
+
+#: C:\wp-shop-original/views/admin/payments.php:125
+msgid "Enable support of a payment through the bank"
+msgstr "Вімкнути підтримку проплати через банк"
+
+#: C:\wp-shop-original/views/admin/payments.php:155
+msgid "Personal account"
+msgstr "Особливий рахунок"
+
+#: C:\wp-shop-original/views/admin/payments.php:159
+msgid "Сorr. account"
+msgstr "Кор. рахунок"
+
+#: C:\wp-shop-original/views/admin/payments.php:173
+msgid "Enable support of a payment using Web-Money"
+msgstr "Вімкнути підтримку проплати Web-Money"
+
+#: C:\wp-shop-original/views/admin/payments.php:200
+msgid "Your WM-purse"
+msgstr "Ваш WM-Гаманець"
+
+#: C:\wp-shop-original/views/admin/payments.php:204
+#: C:\wp-shop-original/views/admin/payments.php:375
+#: C:\wp-shop-original/views/admin/payments.php:444
+#: C:\wp-shop-original/views/admin/payments.php:514
+#: C:\wp-shop-original/views/admin/payments.php:667
+msgid "Success URL"
+msgstr "Success URL"
+
+#: C:\wp-shop-original/views/admin/payments.php:208
+#: C:\wp-shop-original/views/admin/payments.php:380
+#: C:\wp-shop-original/views/admin/payments.php:448
+#: C:\wp-shop-original/views/admin/payments.php:672
+msgid "Failed URL"
+msgstr "Failed URL"
+
+#: C:\wp-shop-original/views/admin/payments.php:218
+msgid "Payment through the merchant"
+msgstr "Проплата через шлюз"
+
+#: C:\wp-shop-original/views/admin/payments.php:223
+msgid "Enable support of Merchant"
+msgstr "Вімкнути підтримку проплати через шлюз"
+
+#: C:\wp-shop-original/views/admin/payments.php:271
+msgid "Select Merchant System"
+msgstr "Оберіть шлюз"
+
+#: C:\wp-shop-original/views/admin/payments.php:275
+msgid "Robokassa"
+msgstr "Robokassa"
+
+#: C:\wp-shop-original/views/admin/payments.php:276
+msgid "Yandex kassa"
+msgstr "Yandex каса"
+
+#: C:\wp-shop-original/views/admin/payments.php:304
+msgid "Robokassa Login"
+msgstr "Robokassa Логін"
+
+#: C:\wp-shop-original/views/admin/payments.php:308
+msgid "Robokassa pass 1"
+msgstr "Пароль №  1"
+
+#: C:\wp-shop-original/views/admin/payments.php:312
+msgid "Robokassa pass 2"
+msgstr "Пароль № 2"
+
+#: C:\wp-shop-original/views/admin/payments.php:345
+msgid "Your WalletOne"
+msgstr "Номер Вашего гаманця"
+
+#: C:\wp-shop-original/views/admin/payments.php:350
+#: C:\wp-shop-original/views/admin/payments.php:519
+#: C:\wp-shop-original/views/admin/payments.php:583
+msgid "Currency"
+msgstr "Валюта"
+
+#: C:\wp-shop-original/views/admin/payments.php:363
+#: C:\wp-shop-original/views/admin/payments.php:530
+#: C:\wp-shop-original/views/admin/payments.php:594
+#: C:\wp-shop-original/views/admin/settings.php:105
+msgid "Russian Ruble"
+msgstr "Російські рублі"
+
+#: C:\wp-shop-original/views/admin/payments.php:364
+msgid "South African Rand"
+msgstr "Північно-Африканські ранди"
+
+#: C:\wp-shop-original/views/admin/payments.php:365
+#: C:\wp-shop-original/views/admin/payments.php:528
+#: C:\wp-shop-original/views/admin/payments.php:592
+#: C:\wp-shop-original/views/admin/settings.php:103
+msgid "USD"
+msgstr "Американські долари"
+
+#: C:\wp-shop-original/views/admin/payments.php:366
+#: C:\wp-shop-original/views/admin/payments.php:529
+#: C:\wp-shop-original/views/admin/payments.php:593
+#: C:\wp-shop-original/views/admin/settings.php:104
+msgid "euro"
+msgstr "Евро"
+
+#: C:\wp-shop-original/views/admin/payments.php:367
+msgid "Ukrainian hryvnia"
+msgstr "Українські гривні"
+
+#: C:\wp-shop-original/views/admin/payments.php:368
+msgid "Kazakhstani tenge"
+msgstr "Казахстанські тенге"
+
+#: C:\wp-shop-original/views/admin/payments.php:369
+msgid "Belarusian Ruble"
+msgstr "Білоруські рублі"
+
+#: C:\wp-shop-original/views/admin/payments.php:403
+#: C:\wp-shop-original/views/admin/payments.php:481
+msgid "Test paiments"
+msgstr "Тестовий режим"
+
+#: C:\wp-shop-original/views/admin/payments.php:431
+msgid "Your Yandex kassa shop_id"
+msgstr "Ваш Yandex каса shop_Id"
+
+#: C:\wp-shop-original/views/admin/payments.php:435
+msgid "Your Yandex kassa scid"
+msgstr "Ваш Yandex каса scid"
+
+#: C:\wp-shop-original/views/admin/payments.php:439
+msgid "Your Yandex kassa shopPassword"
+msgstr "Ваш Yandex каса shopPassword"
+
+#: C:\wp-shop-original/views/admin/payments.php:452
+msgid "Enable Sberbank online"
+msgstr "Активувати Сбербанк-онлайн"
+
+#: C:\wp-shop-original/views/admin/payments.php:457
+msgid "Enable Webmoney"
+msgstr "Активувати проплату Webmoney"
+
+#: C:\wp-shop-original/views/admin/payments.php:475
+msgid "Enable PayPal"
+msgstr "Активувати PayPal"
+
+#: C:\wp-shop-original/views/admin/payments.php:509
+msgid "Saller Email"
+msgstr "Email продавця"
+
+#: C:\wp-shop-original/views/admin/payments.php:545
+msgid "Enable Simplepay"
+msgstr "Активувати Simplepay"
+
+#: C:\wp-shop-original/views/admin/payments.php:573
+msgid "Outlet id"
+msgstr "Ідентифікатор торгівельної точки"
+
+#: C:\wp-shop-original/views/admin/payments.php:578
+msgid "Secure key"
+msgstr "Секретний ключ"
+
+#: C:\wp-shop-original/views/admin/payments.php:623
+msgid "Enable Chronopay"
+msgstr "Активувати проплату Chronopay"
+
+#: C:\wp-shop-original/views/admin/payments.php:656
+msgid "Order_id enable"
+msgstr "Враховувати номер заказу"
+
+#: C:\wp-shop-original/views/admin/payments.php:662
+msgid "Product_id"
+msgstr ""
+
+#: C:\wp-shop-original/views/admin/settings.php:2
+msgid "Settings of WP-Shop"
+msgstr "Основні налаштування интернет-крамниці WP-Shop"
+
+#: C:\wp-shop-original/views/admin/settings.php:10
+msgid "Options:"
+msgstr "Налаштування:"
+
+#: C:\wp-shop-original/views/admin/settings.php:16
+msgid "Choose a style file"
+msgstr "Оберіть файл стилей"
+
+#: C:\wp-shop-original/views/admin/settings.php:27
+msgid "Available Forms"
+msgstr "Доступні форми"
+
+#: C:\wp-shop-original/views/admin/settings.php:45
+msgid "Up"
+msgstr "Вгору"
+
+#: C:\wp-shop-original/views/admin/settings.php:46
+msgid "Down"
+msgstr "Вниз"
+
+#: C:\wp-shop-original/views/admin/settings.php:53
+msgid "Display price of goods in records and archives:"
+msgstr "Відображати вартість товару в записах та архівах:"
+
+#: C:\wp-shop-original/views/admin/settings.php:59
+msgid "Show payment method"
+msgstr "Відображати спосіб проплаты"
+
+#: C:\wp-shop-original/views/admin/settings.php:63
+msgid "Additional options are included in the &quot;WP Shop Payments&quot;"
+msgstr ""
+"Вімкнення/вимикнення додаткових сценарієв проплати, налаштовуються в розділі "
+"&quot;Налаштування проплати&quot;"
+
+#: C:\wp-shop-original/views/admin/settings.php:67
+msgid "Activate custom mail editor:"
+msgstr "Активувати редактор листів:"
+
+#: C:\wp-shop-original/views/admin/settings.php:72
+msgid "E-mail notification about shopping"
+msgstr "E-mail повідомлення про закупівлі"
+
+#: C:\wp-shop-original/views/admin/settings.php:77
+msgid "Tracking ID for E-commerce Google Analytics"
+msgstr "ID для Google Analytics"
+
+#: C:\wp-shop-original/views/admin/settings.php:82
+msgid "Tracking ID for E-commerce Yandex metrika"
+msgstr "ID для Yandex метрики"
+
+#: C:\wp-shop-original/views/admin/settings.php:87
+msgid "Partner id"
+msgstr ""
+
+#: C:\wp-shop-original/views/admin/settings.php:92
+msgid "Currency for E-commerce Google Analytics"
+msgstr "Валюта для Google Analytics"
+
+#: C:\wp-shop-original/views/admin/settings.php:106
+msgid "Ukrainian Hrivna"
+msgstr "Українські гривні"
+
+#: C:\wp-shop-original/views/admin/settings.php:107
+msgid "British Pounds"
+msgstr "Британські Фунти"
+
+#: C:\wp-shop-original/views/admin/settings.php:113
+msgid "Disable kind of authorization"
+msgstr "Вимикнути один із способів авторизації в крамниці"
+
+#: C:\wp-shop-original/views/admin/settings.php:122
+msgid "no"
+msgstr "ні"
+
+#: C:\wp-shop-original/views/admin/settings.php:123
+msgid "dissable register form"
+msgstr "Вимикнути авторизацію користувачей"
+
+#: C:\wp-shop-original/views/admin/settings.php:124
+msgid "disable guest shoping"
+msgstr "Вимикнути роль гостя"
+
+#: C:\wp-shop-original/views/admin/settings.php:138
+msgid "Данные магазина очищены"
+msgstr ""
+
+#: C:\wp-shop-original/views/admin/settings.php:152
+msgid "Loginza setting"
+msgstr "Налаштування Loginza"
+
+#: C:\wp-shop-original/views/admin/settings.php:170
+msgid "Link in format Yandex-XML. Enter it if the site in the Yandex.Market"
+msgstr ""
+"Лінк в форматі Yandex-XML. Вкажіть його при публікації сайта в системі Yandex."
+"Market"
+
+#: C:\wp-shop-original/views/admin/settings.php:176
+msgid ""
+"This XML-file contains a list of items with not emptied price in your store."
+msgstr ""
+"Це XML-файл утримує в собі список товаров Вашої крамниці, у якіх вказана будь-"
+"яка ціна."
+
+#: C:\wp-shop-original/views/admin/settings.php:178
+msgid ""
+"To exclude items from the list, add a custom field <code>noyml</code> with a "
+"value of 1."
+msgstr ""
+"Для того, щоб виключити товар зі списку, додайте довільне поле <code>noyml</"
+"code> зі значенням 1."
+
+#: C:\wp-shop-original/views/admin/settings.php:180
+msgid ""
+"Read details about this option on the page: <a href=\"http://www.wp-shop.ru/"
+"yandex-market/\" target=\"_blank\">Publication items Yandex.market</a>"
+msgstr ""
+"Більш детально про цю опцію на сторінці - <a href=\"http://www.wp-shop.ru/blog/"
+"yandex-market/\" target=\"_blank\">Публікація товарів в Яндекс.Маркеті</a>"
+
+#: C:\wp-shop-original/views/admin/settings.php:189
+msgid "Cart"
+msgstr "Кошик"
+
+#: C:\wp-shop-original/views/admin/settings.php:191
+msgid "Discount:"
+msgstr "Зі знижкою:"
+
+#: C:\wp-shop-original/views/admin/settings.php:193
+msgid "Options of minimum order:"
+msgstr "Опції мінімального заказу:"
+
+#: C:\wp-shop-original/views/admin/settings.php:195
+msgid "The minimum sum of order:"
+msgstr "Мінімальна сума заказу:"
+
+#: C:\wp-shop-original/views/admin/settings.php:196
+msgid "Message to the buyer:"
+msgstr "Повідомлення для покупця:"
+
+#: C:\wp-shop-original/views/admin/settings.php:197
+msgid "Link to the condition of delivery:"
+msgstr "Лінк на умови постачання:"
+
+#: C:\wp-shop-original/views/admin/settings.php:198
+msgid "Link to the return to shopping:"
+msgstr "Посилання для повернення до покупок:"
+
+#: C:\wp-shop-original/views/admin/settings.php:199
+msgid "Link to to the cart page:"
+msgstr "Посилання на сторінку кошика:"
+
+#: C:\wp-shop-original/views/admin/settings.php:210
+msgid "Item"
+msgstr "Товар"
+
+#: C:\wp-shop-original/views/admin/settings.php:217
+msgid "Currency:"
+msgstr "Валюта:"
+
+#: C:\wp-shop-original/views/admin/settings.php:221
+msgid "Text if the product is no longer available:"
+msgstr "Текст (HTML), якщо товару немає:"
+
+#: C:\wp-shop-original/views/admin/settings.php:239
+msgid "Support the authors of the plugin WP-Shop!"
+msgstr "Підтримайте авторів плагіну WP-Shop!"
+
+#: C:\wp-shop-original/views/admin/settings.php:245
+msgid ""
+"If the plugin has helped you in your business, please make donations and "
+"support the authors! With your support we can continue to improve the our "
+"plugins and make new ones."
+msgstr ""
+"Якщо наш плагін допоміг Вам у Вашій роботі, підтримайте авторів копієчкою! За "
+"Вашої підтримки ми зможемо продовжувати поліпшувати існуючі плагіни та "
+"створювати нові."
+
+#: C:\wp-shop-original/views/admin/settings.php:257
+msgid ""
+"<strong>Authors of the plugin:</strong> Alexander Kuznetsov, Igor Bobko, "
+"Sergey Makarin"
+msgstr "<strong>Авторы плагіну:</strong> Кузнецов Александр, Абрамов Кирилл"
+
+#: C:\wp-shop-original/views/admin/settings.php:258
+msgid ""
+"<strong>The Website plugin:</strong> <a href=\"http://www.wp-shop.ru/\" target="
+"\"_blank\">www.wp-shop.ru</a>"
+msgstr ""
+"<strong>Сайт плагіну:</strong> <a href=\"http://wp-shop.ru/\" target=\"_blank"
+"\">wp-shop.ru</a>"
+
+#: C:\wp-shop-original/views/admin/settings.php:265
+msgid "META-box for display a price list"
+msgstr "META-поле для виводу у прайс-листах"
+
+#: C:\wp-shop-original/views/admin/settings.php:276
+#: C:\wp-shop-original/views/admin/settings.php:304
+msgid "Done"
+msgstr "Готово"
+
+#: C:\wp-shop-original/views/admin/settings.php:282
+msgid ""
+"Here you can specify the name of an additional <code>post_meta</​​code>, which "
+"you want to display in pricelists"
+msgstr ""
+"Тут можна вказувати найменування додаткового <code>post_meta</code>, яке Ви "
+"бажаєте показати в прайс-листах"
+
+#: C:\wp-shop-original/views/admin/settings.php:293
+msgid "Currency update."
+msgstr "Оновлення по валюті."
+
+#: C:\wp-shop-original/views/admin/settings.php:315
+msgid "Update"
+msgstr "Оновити"
+
+#: C:\wp-shop-original/views/admin/user.profile.php:9
+msgid "User Profile"
+msgstr "Профіль користувача"
+
+#: C:\wp-shop-original/views/admin/user.profile.php:13
+msgid "Shipping Address:"
+msgstr "Адреса постачання:"
+
+#: C:\wp-shop-original/views/admin/user.profile.php:17
+msgid "Comment:"
+msgstr "Коментарій:"
+
+#: C:\wp-shop-original/views/good.widget.inc.php:33
+msgid "Add"
+msgstr "Додати"
+
+#: C:\wp-shop-original/views/good.widget.inc.php:40
+msgid "In stock "
+msgstr "Залишок на складі"
+
+#: C:\wp-shop-original/views/good.widget.inc.php:42
+msgid " pcs."
+msgstr "шт."
+
+#: C:\wp-shop-original/views/mail/admin.php:50
+msgid "Discount price"
+msgstr "Ціна зі знижкою"
+
+#: C:\wp-shop-original/views/mail/client.php:49
+#: C:\wp-shop-original/views/mail/client1.php:31
+msgid "Price with discount"
+msgstr "Ціна зі знижкою"
+
+#: C:\wp-shop-original/views/vitrina.php:27
+msgid "Details"
+msgstr "Детальніше"
+
+#~ msgid "moneytransfer"
+#~ msgstr "Денежный перевод"
+
+#~ msgid "bankoffice"
+#~ msgstr "Отделение банка"
+
+#~ msgid "onlinebank"
+#~ msgstr "Интернет банкинг"
+
+#~ msgid "cashterminal"
+#~ msgstr "Терминал"
+
+#~ msgid "mobileretails"
+#~ msgstr "Салоны связи"
+
+#~ msgid "Pecunix"
+#~ msgstr "Pecunix"
+
+#~ msgid "Elecsnet"
+#~ msgstr "Элекснет"
+
+#~ msgid "Widget ID:"
+#~ msgstr "ID виджета:"
+
+#~ msgid "Secret Key:"
+#~ msgstr "Секретный ключ:"
+
+#~ msgid "Enable support of User delivery"
+#~ msgstr "Включить поддержку пользовательской доставки"
+
+#~ msgid "Jabber / Google Talk:"
+#~ msgstr "Jabber / Google Talk:"
+
+#~ msgid "Yahoo IM:"
+#~ msgstr "Yahoo IM:"
+
+#~ msgid "AIM:"
+#~ msgstr "AIM:"
+
+#~ msgid "Biography:"
+#~ msgstr "Биография:"
+
+#~ msgid "These forms have a field"
+#~ msgstr "&nbsp;"
+
+#~ msgid "Make the field"
+#~ msgstr "&nbsp;"
+
+#~ msgid "hidden"
+#~ msgstr "&nbsp;"
+
+#~ msgid "PayPal - the safer, easier way to pay online!"
+#~ msgstr "PayPal — более безопасный и легкий способ оплаты через Интернет!"
+
+#~ msgid "Link to unfortunate users IE 6"
+#~ msgstr "Линк для несчастных пользователей IE 6"
+
+#~ msgid "Merchant"
+#~ msgstr "Продавец"
+
+#~ msgid "Customer"
+#~ msgstr "Покупатель"
+
+#~ msgid "Authorization"
+#~ msgstr "Авторизация"
+
+#~ msgid "Authorization on the site:"
+#~ msgstr "Авторизация на сайте:"
+
+#~ msgid "Checkout"
+#~ msgstr "Покупка товаров"
